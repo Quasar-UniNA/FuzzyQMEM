@@ -1,4 +1,4 @@
-# FuzzyQMEM [![Made at Quasar!](https://img.shields.io/badge/Unina-%20QuasarLab-blue)](http://quasar.unina.it) [![Made at Quasar!] (https://img.shields.io/badge/Documentation-%20Readthedocs-brightgreen)](https://hqga.readthedocs.io/en/latest/index.html) [![Made at Quasar!](https://img.shields.io/badge/Related-%20Paper-orange)](https://ieeexplore.ieee.org/abstract/document/9494538)
+# FuzzyQMEM [![Made at Quasar!](https://img.shields.io/badge/Unina-%20QuasarLab-blue)](http://quasar.unina.it) [![Made at Quasar!](https://img.shields.io/badge/Documentation-%20Readthedocs-brightgreen)](https://hqga.readthedocs.io/en/latest/index.html) [![Made at Quasar!](https://img.shields.io/badge/Related-%20Paper-orange)](https://ieeexplore.ieee.org/abstract/document/9494538)
 
 
 This repository is related to the application of the Fuzzy C-means algorithm to perform Quantum Measurement Error Mitigation (QMEM). This approach is proposed in:
